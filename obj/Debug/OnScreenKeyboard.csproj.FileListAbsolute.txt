@@ -1,0 +1,5 @@
+M:\RaptorRun\RaptorRun\OnScreenKeyboard\bin\Debug\OnScreenKeyboard.dll
+M:\RaptorRun\RaptorRun\OnScreenKeyboard\bin\Debug\OnScreenKeyboard.pdb
+M:\RaptorRun\RaptorRun\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.dll
+M:\RaptorRun\RaptorRun\OnScreenKeyboard\obj\Debug\OnScreenKeyboard.pdb
+M:\RaptorRun\RaptorRun\OnScreenKeyboard\bin\Debug\Segoe UI Symbol.xnb
